@@ -21,3 +21,5 @@ By using my Google Chrome Extensions, you signify your consent and agreement to 
 ## Feedback
 
 If you have questions or concerns about this Privacy Policy, you can contact me by [email](mailto:timsdatascienceproject@gmail.com).
+
+Credits: [https://github.com/rly/chrome-extensions-privacy-policy](https://github.com/rly/chrome-extensions-privacy-policy)
